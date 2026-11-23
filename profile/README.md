@@ -1,12 +1,9 @@
-## Hi there 👋
+# Welcome 👋
 
-<!--
+This is our team’s GitHub home. Here you’ll find the code and documentation for the projects we maintain.
 
-**Here are some ideas to get you started:**
+## Getting started
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Browse the **Repositories** tab to find projects you can access.
+- Check each project’s README for an overview and setup instructions.
+- To report a bug or suggest an improvement, open an issue in the relevant repository if Issues are enabled.
